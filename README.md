@@ -8,8 +8,9 @@
 
 ## Getting started
 ```sh
-npm install --save react-native-slide-view
+npm install --save react-native-slide-view or prop-types
 ```
+
 
 ## Example
 
